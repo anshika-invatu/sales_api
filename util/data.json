@@ -1,0 +1,29 @@
+[
+    {
+      "id": "user1",
+      "name": "John Doe",
+      "age": 30,
+      "city": "New York",
+      "interests": ["programming", "reading", "traveling"],
+      "isStudent": false,
+      "address": {
+        "street": "123 Main St",
+        "zipCode": "10001",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "user2",
+      "name": "Jane Smith",
+      "age": 25,
+      "city": "San Francisco",
+      "interests": ["hiking", "cooking", "photography"],
+      "isStudent": true,
+      "address": {
+        "street": "456 Oak St",
+        "zipCode": "94102",
+        "country": "USA"
+      }
+    }
+]
+  
